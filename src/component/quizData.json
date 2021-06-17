@@ -1,0 +1,29 @@
+{
+    "data":[
+        {
+            "question": " Which is not a property of attribute Behaviour of <Marquee> tag?",
+            "choices":["Alternate","Blur","Scroll","Slide"],
+            "answer": "Blur"
+        },
+        {
+            "question": ".....keyword is used to declare variables in javascript?",
+            "choices":["Var","Dim","String","None of the above"],
+            "answer": "Var"
+        },
+        {
+            "question": "What does HTML stand for?",
+            "choices":["Hypertext Markup Language","Cascading Style Sheet","Jason Object Notation","Helicopters Terminals Motorboats Lamborginis"],
+            "answer": "Hypertext Markup Language"
+        },
+        {
+            "question": "How can you make a list that lists the items with numbers?",
+            "choices":["<ul>","<list>","<ol>","<dl>"],
+            "answer": "<ol>"
+        },
+        {
+            "question": "Awebpage displays a picture. What tag was used to display that picture?",
+            "choices":["picture","image","img","src"],
+            "answer": "img"
+        }
+    ]
+}
